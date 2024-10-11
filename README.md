@@ -1,4 +1,4 @@
-# 🚀 Introducción a la Informática
+# 💻 Introducción a la Informática
 
 Este curso cubre los **pilares fundamentales** de la **informática**, incluyendo **hardware, software, control de versiones, redes, sistemas operativos, ciberseguridad y lenguajes de programación**. Los estudiantes aprenderán a usar herramientas como **CLI, Git, GitHub** y **máquinas virtuales**, y explorarán conceptos como **arquitectura de computadoras** y **protocolos de seguridad**. Al finalizar, estarán capacitados para aplicar sus conocimientos en diversos campos tecnológicos, ideal para **principiantes** o quienes deseen **reforzar habilidades**.
 
@@ -14,7 +14,7 @@ Este curso está **diseñado** para quienes desean **iniciarse o profundizar** e
 
 ---
 
-# 🚀 Metodologías de Trabajo Ágiles
+# 📊 Metodologías de Trabajo Ágiles
 
 Este curso introduce y profundiza en las **metodologías ágiles**, proporcionando herramientas para gestionar proyectos de manera **eficiente**. A través de **tres módulos**, los estudiantes aprenderán sobre **Scrum, Lean** y **Kanban**, así como a aplicar métricas y **User Stories**. Se enfocará en la **formación teórica y práctica** para participar en **proyectos ágiles**.
 
@@ -22,7 +22,7 @@ Este curso introduce y profundiza en las **metodologías ágiles**, proporcionan
 
 ---
 
-# 🚀 Introducción a Bases de Datos
+# 💾 Introducción a Bases de Datos
 
 Este curso enseña los **fundamentos de las bases de datos**, desde **instalación** y **configuración** hasta el **diseño de diagramas entidad-relación (DER)** y la **optimización de consultas SQL**. Los estudiantes desarrollarán habilidades para trabajar con bases de datos relacionales y aplicar **buenas prácticas** para mejorar el rendimiento de aplicaciones que gestionan grandes volúmenes de datos.
 
@@ -30,7 +30,7 @@ Este curso enseña los **fundamentos de las bases de datos**, desde **instalaci�
 
 ---
 
-# 🚀 Programación Imperativa
+# 🧩 Programación Imperativa
 
 Este curso proporciona una **comprensión sólida** de los **fundamentos** de la **programación imperativa** usando **JavaScript**. Se desarrollarán habilidades para implementar **algoritmos** y aplicar conceptos a **problemas del mundo real**. Los estudiantes tendrán oportunidades de **aplicar sus conocimientos** en **proyectos reales**.
 
@@ -38,7 +38,7 @@ Este curso proporciona una **comprensión sólida** de los **fundamentos** de la
 
 ---
 
-# 🚀 Learning Agility
+# 👔 Learning Agility
 
 Este curso se centra en la **agilidad de aprendizaje** como herramienta clave para enfrentar **desafíos del mercado laboral**. A través de un enfoque práctico y reflexivo, los estudiantes aprenderán a **adaptarse** y construir un **perfil profesional** más versátil.
 
@@ -46,7 +46,7 @@ Este curso se centra en la **agilidad de aprendizaje** como herramienta clave pa
 
 ---
 
-# 🚀 Programación Orientada a Objetos
+# 🧮 Programación Orientada a Objetos
 
 Este curso introduce los conceptos fundamentales de la **programación orientada a objetos (POO)** utilizando **Java**. Los estudiantes aprenderán la **estructura** y aplicación de POO en el desarrollo de software.
 
@@ -54,7 +54,7 @@ Este curso introduce los conceptos fundamentales de la **programación orientada
 
 ---
 
-# 🚀 Testing y Gestión de Defectos
+# 🔍 Testing y Gestión de Defectos
 
 Este curso proporciona una **comprensión profunda** de los **fundamentos de testing**, la **gestión de defectos** y la **implementación de pruebas** en el desarrollo de software. Los estudiantes aprenderán a **mejorar la calidad** del software y optimizar **procesos de prueba**.
 
@@ -62,7 +62,7 @@ Este curso proporciona una **comprensión profunda** de los **fundamentos de tes
 
 ---
 
-# 🚀 Design Thinking
+# 📱 Design Thinking
 
 Este curso introduce la **metodología Design Thinking**, sus principios y aplicaciones en el **diseño centrado en el usuario**. Se fomentará la **creatividad** y colaboración para **resolver problemas** y **crear soluciones efectivas**.
 
@@ -70,7 +70,7 @@ Este curso introduce la **metodología Design Thinking**, sus principios y aplic
 
 ---
 
-# 🚀 Frontend II
+# 🎨 Frontend II
 
 Este curso profundiza en el **desarrollo web** utilizando **JavaScript** en el **lado del cliente**. Los estudiantes aprenderán a **manipular el DOM**, **trabajar con formularios**, **manejar asincronismo** y **consumir APIs**.
 
@@ -78,7 +78,7 @@ Este curso profundiza en el **desarrollo web** utilizando **JavaScript** en el *
 
 ---
 
-# 🚀 Infraestructura
+# 🏗 Infraestructura
 
 Este curso proporciona una **comprensión integral** de la **infraestructura tradicional y moderna**, abordando temas como **automatización, contenedores** y **computación en la nube**.
 
