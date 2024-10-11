@@ -141,4 +141,4 @@ Este curso está diseñado para ayudar a los estudiantes a comprender sus emocio
 
 # 🏆 Certificado | Profesional Developer 
 
-![Certificado Profesional Developer](./Images/CertificadoProfessionalDeveloper.jpg)
+![Certificado Profesional Developer](./CertificadoDigital.jpg)
